@@ -1,4 +1,4 @@
 # Automation
 Task automations
 
-Author - Pratik Mali
+Author - Pratik Prakash Mali
